@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fnoquaye
+- 👋 Hi, I’m BlueR
 - 👀 I’m interested in Programming and 3D Modeling
 - 🌱 I’m currently learning 3D animation
 - 📫 How to reach me: fnoquaye1@gmail.com
