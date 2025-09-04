@@ -1,7 +1,7 @@
-- 👋 Hi, I’m BlueR
+- 👋 Hi, I’m Festus
 - 👀 I’m interested in Programming and 3D Modeling
-- 🌱 I’m currently learning 3D animation
-- 📫 How to reach me: fnoquaye1@gmail.com
+- 🌱 I’m currently learning 3D animation and mobile app developent
+- 📫 How to reach me: fnoquaye1@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Water is wet
 
